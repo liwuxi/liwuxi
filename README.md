@@ -16,6 +16,7 @@ I'm a front-end development engineer.
 
 [![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
 [![](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-Flutter-1389FD?style=flat-square&logo=Flutter&logoColor=ffffff)](https://flutter.dev/)
 
 #### Can you catch me?
 [![](https://img.shields.io/badge/-@imwuxi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/imwuxi)
